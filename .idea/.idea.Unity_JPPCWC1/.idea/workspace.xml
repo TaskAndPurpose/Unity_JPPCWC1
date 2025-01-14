@@ -5,76 +5,98 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ee6d0e3-fd53-4145-ad64-1e6099703746" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Core.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/Barrel.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/Barrel.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/Barrels.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/Barrels.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/HealthSystemPrefab.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/HealthSystemPrefab.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/Player.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/Player.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/Player1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/Player1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/Player2.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/Player2.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/SomeCannonProjectile.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/SomeCannonProjectile.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/Trail.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/Trail.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/Wall.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Prefab/Wall.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Scenes/Main.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Scenes/Main.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Scenes/MainGame.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/Scenes/MainGame.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/Barrel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/Barrel.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/CoolBarrel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/CoolBarrel.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/HealthSystem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/HealthSystem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/PlayerMovement_p1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/PlayerMovement_p1.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/PlayerMovement_p2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/PlayerMovement_p2.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/PlayerStuff.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/PlayerStuff/PlayerCannon_Projectile.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/PlayerStuff/PlayerCannon_Projectile.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/PlayerStuff/PlayerCannon_ProjectileSystem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/PlayerStuff/PlayerCannon_ProjectileSystem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/PlayerStuff/PlayerMovement_System.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/PlayerStuff/PlayerMovement_System.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/PlayerStuff/PlayerTurret_HitscanSystem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Core/_Source/PlayerStuff/PlayerTurret_HitscanSystem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Blue.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Blue.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Brown.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Brown.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Green.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Green.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Grey.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Grey.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Mats.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Mats/DarkGreen.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Mats/DarkGreen.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Mats/Green.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Mats/Green.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Mats/Greyish.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Mats/Greyish.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Mats/LightGrey.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Mats/LightGrey.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Mats/LighterGrey.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/More/Mats/LighterGrey.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity_JPPCWC1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity_JPPCWC1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/Barrel.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/Barrel.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/Barrels.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/Barrels.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/HealthSystemPrefab.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/HealthSystemPrefab.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/Player.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/Player.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/Player1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/Player1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/Player2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/Player2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/SomeCannonProjectile.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/SomeCannonProjectile.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/Trail.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/Trail.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/Wall.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Prefab/Wall.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Scenes/Main.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Scenes/Main.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Scenes/MainGame.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/Scenes/MainGame.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/Barrel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/Barrel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/CoolBarrel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/CoolBarrel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/HealthSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/HealthSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/PlayerMovement_p1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/PlayerMovement_p1.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/PlayerMovement_p2.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/PlayerMovement_p2.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/PlayerStuff.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/PlayerStuff/PlayerCannon_Projectile.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/PlayerStuff/PlayerCannon_Projectile.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/PlayerStuff/PlayerCannon_ProjectileSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/PlayerStuff/PlayerCannon_ProjectileSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/PlayerStuff/PlayerMovement_System.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/PlayerStuff/PlayerMovement_System.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/PlayerStuff/PlayerTurret_HitscanSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Core/_Source/PlayerStuff/PlayerTurret_HitscanSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/InputSystem_Actions.inputactions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/InputSystem_Actions.inputactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Blue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Blue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Brown.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Brown.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Green.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Green.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Grey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Grey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Mats.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Mats/DarkGreen.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Mats/DarkGreen.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Mats/Green.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Mats/Green.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Mats/Greyish.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Mats/Greyish.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Mats/LightGrey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Mats/LightGrey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Mats/LighterGrey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/More/Mats/LighterGrey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Base_Stuff/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/A)Tank_mk1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/A)Tank_mk1/Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/A)Tank_mk1/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/A)Tank_mk1/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/A)Tank_mk1/Scenes/Tank_mk1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/A)Tank_mk1/Scenes/Tank_mk1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/A)Tank_mk1/_Source.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/B)Plane_mk1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/B)Plane_mk1/Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/B)Plane_mk1/Assets/DarkGrey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/B)Plane_mk1/Assets/DarkGrey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/B)Plane_mk1/Assets/Grey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/B)Plane_mk1/Assets/Grey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/B)Plane_mk1/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/B)Plane_mk1/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/B)Plane_mk1/Scenes/PlaneTest_1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/B)Plane_mk1/Scenes/PlaneTest_1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/B)Plane_mk1/_Source.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/B)Plane_mk1/_Source/PlaneCamera_MK1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unit_One/B)Plane_mk1/_Source/PlaneCamera_MK1.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,27 +106,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2rYNjyiJ19S8UgZcpsHN4fOxQH6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Unity.exe" />
@@ -152,6 +174,10 @@
       <option name="presentableId" value="Default" />
       <updated>1736732189043</updated>
       <workItem from="1736732190307" duration="597000" />
+      <workItem from="1736817201364" duration="10000" />
+      <workItem from="1736817224790" duration="1000" />
+      <workItem from="1736817434943" duration="1007000" />
+      <workItem from="1736818463980" duration="390000" />
     </task>
     <servers />
   </component>
